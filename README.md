@@ -6,7 +6,7 @@ This project is a real-time group chat application using React, Firebase for sto
 
 - **User Authentication**: Users can sign in using their Google account with Firebase authentication.
 - **Room Creation**: Users can create and join unique rooms for chatting, each identified by a unique room ID.
-- **Real-time Messaging**: Messages are sent and received in real time using Socket.IO, ensuring instant communication.
+- **Real-time Messaging**: Messages are sent and received in real time using Firestore, ensuring instant communication.
 - **Message Storage**: All messages are stored in Firebase Firestore for persistence and retrieval.
 
 ## Main Project File Structure
