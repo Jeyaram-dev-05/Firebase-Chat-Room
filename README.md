@@ -52,7 +52,7 @@ This project is a real-time group chat application using React, Firebase for sto
 
 ## Live URL
 
-https://chat-others.vercel.app
+https://voluble-lily-30e806.netlify.app/
 
 ## License
 
